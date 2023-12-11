@@ -1,0 +1,35 @@
+[Icon Theme]
+Name=AD-integration line
+Name[ru]=AD-интеграция линия
+Comment=Icon theme for AD integration BaseAlt projects
+
+DisplayDepth=32
+
+Inherits=hicolor
+
+Example=folder
+
+FollowsColorScheme=true
+
+DesktopDefault=48
+DesktopSizes=16,22,32,48,64,128,256
+ToolbarDefault=22
+ToolbarSizes=16,22,32,48
+MainToolbarDefault=22
+MainToolbarSizes=16,22,32,48
+SmallDefault=22
+SmallSizes=16,22,32,48
+PanelDefault=48
+PanelSizes=16,22,32,48,64,128,256
+DialogDefault=32
+DialogSizes=16,22,32,48,64,128,256
+
+# Directory list
+Directories=scalable
+
+[scalable]
+Context=Categories
+Size=16
+MinSize=8
+MaxSize=512
+Type=Scalable
