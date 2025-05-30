@@ -7,7 +7,7 @@
    xml:space="preserve"
    version="1.1"
    id="svg9"
-   sodipodi:docname="view-hidden.svg"
+   sodipodi:docname="domain-info-item.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -23,10 +23,10 @@
    inkscape:deskcolor="#d1d1d1"
    showgrid="false"
    inkscape:zoom="53.875"
-   inkscape:cx="8.0092807"
-   inkscape:cy="8"
+   inkscape:cx="8.0278422"
+   inkscape:cy="8.0092807"
    inkscape:window-width="1920"
-   inkscape:window-height="1025"
+   inkscape:window-height="1008"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="1"
@@ -46,7 +46,7 @@
    d="M8,3c-2.194,0 -4,1.806 -4,4c0,2.194 1.806,4 4,4c2.194,0 4,-1.806 4,-4c0,-2.194 -1.806,-4 -4,-4Zm0,2.667c-0.731,-0 -1.333,0.602 -1.333,1.333c-0,0.731 0.602,1.333 1.333,1.333c0.731,0 1.333,-0.602 1.333,-1.333c0,-0.731 -0.602,-1.333 -1.333,-1.333Z"
    id="path7" />
 <path
-   style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;fill:#a02c2c"
+   style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;fill:#241c1c"
    class="ColorScheme-Text"
    d="M8,3c-6,0 -8,5 -8,5c0,0 2,5 8,5c6,0 8,-5 8,-5c0,0 -2,-5 -8,-5Zm6.889,5c-0.57,-1.056 -2.55,-4 -6.889,-4c-4.339,0 -6.319,2.944 -6.889,4c0.57,1.056 2.55,4 6.889,4c4.339,0 6.319,-2.944 6.889,-4Z"
    id="path5" /><path
