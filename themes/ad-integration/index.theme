@@ -1,0 +1,15 @@
+[Icon Theme]
+Name=AD-integration
+Name[ru]=AD-интеграция
+Comment=Icon theme for AD integration BaseAlt projects
+
+Inherits=Papirus,hicolor
+
+Directories=scalable
+
+[scalable]
+Context=All
+Size=48
+MinSize=8
+MaxSize=512
+Type=Scalable
