@@ -3,7 +3,7 @@ Name=AD-integration
 Name[ru]=AD-интеграция
 Comment=Icon theme for AD integration BaseAlt projects
 
-Inherits=Papirus,hicolor
+Inherits=gnome,hicolor
 
 Directories=scalable
 
