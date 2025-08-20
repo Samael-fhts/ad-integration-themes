@@ -18,12 +18,12 @@ like ADMC, GPUI and other.
 %setup
 
 %install
-mkdir -p %buildroot%_datadir/%name
-cp -R themes/*/ %buildroot%_datadir/%name
+mkdir -p %buildroot%_iconsdir/%name
+cp -R scalable/ index.theme %buildroot%_iconsdir/%name
 
 %files
 %doc LICENSE README.md
-%_datadir/%name
+%_iconsdir/%name
 
 %changelog
 * Tue Jun 03 2025 Semyon Knyazev <samael@altlinux.org> 2.0-alt1
