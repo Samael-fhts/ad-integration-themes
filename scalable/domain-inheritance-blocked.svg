@@ -4,7 +4,7 @@
    viewBox="0 0 64 64"
    version="1.1"
    id="svg1358"
-   sodipodi:docname="Domain-DNS.svg"
+   sodipodi:docname="domain-inheritance-blocked.svg"
    inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -115,4 +115,26 @@
          id="stop1353" />
     </linearGradient>
   </defs>
+  <path
+     style="fill:#ffdd55;stroke:#000000;stroke-width:1.46135;stroke-dasharray:none;stroke-opacity:1"
+     d="m 47.252814,27.223654 c -5.479958,0 -9.89162,4.27947 -9.89162,9.595222 v 4.797612 h 4.94581 v -4.797612 c 0,-2.657876 2.205831,-4.79761 4.94581,-4.79761 2.739979,0 4.945811,2.139734 4.945811,4.79761 v 4.797612 h 4.945811 v -4.797612 c 0,-5.315752 -4.411664,-9.595222 -9.891622,-9.595222 z"
+     id="path2" />
+  <rect
+     style="fill:#d4aa00;stroke:#000000;stroke-width:1.67324;stroke-dasharray:none;stroke-opacity:1"
+     width="29.706091"
+     height="20.668301"
+     x="32.354641"
+     y="41.601341"
+     rx="2.4755077"
+     ry="2.2964783"
+     id="rect4" />
+  <rect
+     style="fill:#ff9955;stroke-width:2.37398"
+     width="28.193027"
+     height="11.994027"
+     x="33.141918"
+     y="46.414097"
+     rx="0"
+     ry="0"
+     id="rect6" />
 </svg>
